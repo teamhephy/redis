@@ -1,5 +1,5 @@
 name: redis
-home: https://github.com/deis/redis
+home: https://github.com/deisthree/redis
 version: <Will be populated by the ci before publishing the chart>
 description: A Redis database for use inside a Kubernetes cluster.
 maintainers:
