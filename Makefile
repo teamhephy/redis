@@ -3,7 +3,7 @@
 # - Docker image name
 # - Kubernetes service, rc, pod, secret, volume names
 SHORT_NAME := redis
-DEIS_REGISTY ?= ${DEV_REGISTRY}/
+HEPHY_REGISTY ?= ${DEV_REGISTRY}/
 IMAGE_PREFIX ?= hephy
 
 include versioning.mk
