@@ -1,6 +1,8 @@
+apiVersion: v2
 name: redis
 home: https://github.com/teamhephy/redis
-version: 2.4.4
+version: 2.4.5
 description: A Redis database for use inside a Kubernetes cluster.
 maintainers:
-  - email: team@teamhephy.com
+- name: Team Hephy
+  email: team@teamhephy.com
