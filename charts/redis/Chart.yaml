@@ -1,6 +1,6 @@
 name: redis
-home: https://github.com/deisthree/redis
-version: <Will be populated by the ci before publishing the chart>
+home: https://github.com/teamhephy/redis
+version: 2.4.3
 description: A Redis database for use inside a Kubernetes cluster.
 maintainers:
   - email: team@teamhephy.com
